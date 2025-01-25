@@ -1,0 +1,21 @@
+{
+  "name": "chatbot1",
+  "version": "1.0.0",
+  "description": "bases chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Cristian",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "jimp": "^0.16.13",
+    "link-preview-js": "^3.0.13",
+    "mongoose": "^8.9.5",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
